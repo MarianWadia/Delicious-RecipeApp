@@ -1,6 +1,7 @@
 Sure, here's the README file for a recipe app built with React in markup code:
 
 # Recipe App
+![Screenshot of My App](https://media3.giphy.com/media/svdsMNSzOShzO/giphy.gif?cid=ecf05e47w4pdrs0ooufyxzjy1uqov6zu2twyf4av4j2zzify&rid=giphy.gif&ct=g)
 
 ## Description
 
@@ -48,11 +49,10 @@ If you'd like to contribute to the Recipe App, please follow these steps:
 The Recipe App was built with React and various other libraries and tools, including:
 
 - [React Router](https://reactrouter.com/)
-- [Axios](https://axios-http.com/)
 - [Styled Components](https://styled-components.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Unsplash](https://unsplash.com/) (for recipe images)
-- [Edamam API](https://developer.edamam.com/edamam-recipe-api) (for recipe data)
+- [Spoonacular API](https://spoonacular.com/) (for recipe data)
 
 ## License
 
