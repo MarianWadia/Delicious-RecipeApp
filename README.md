@@ -2,7 +2,7 @@ Sure, here's the README file for a recipe app built with React in markup code:
 
 # Recipe App
 
-<img src="https://media3.giphy.com/media/svdsMNSzOShzO/giphy.gif?cid=ecf05e47w4pdrs0ooufyxzjy1uqov6zu2twyf4av4j2zzify&rid=giphy.gif&ct=g" alt="Quiz App Demo" style= "width:700px; height: 400px">
+<img src="https://media3.giphy.com/media/svdsMNSzOShzO/giphy.gif?cid=ecf05e47w4pdrs0ooufyxzjy1uqov6zu2twyf4av4j2zzify&rid=giphy.gif&ct=g" alt="Quiz App Demo" style= "width:750px; height: 400px">
 
 ## Description
 
