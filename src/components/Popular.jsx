@@ -2,9 +2,10 @@ import { useEffect, useState } from "react";
 import {Splide, SplideSlide} from '@splidejs/react-splide';
 import '@splidejs/splide/dist/css/splide.min.css';
 import { Wrapper, Card, Gradeint } from "./module.style";
+import { Link } from "react-router-dom";
 
 function Popular() {
-    const apiKey = 'f5996b7b95484fb2b7ad953183720673';
+    const apiKey = '79d59cafab924a14a5495a6db8de6b77';
 
     const [popular, setPopular] = useState([])
     // this efeect means that we call the function getpopular only one time when the component get mounted
@@ -45,11 +46,13 @@ function Popular() {
                     return(
                         <SplideSlide key={recipe.id}>
                             <Card>
-                                <p>
-                                    {recipe.title}
-                                </p>
-                                <img src={recipe.image} alt={recipe.title}/>
-                                <Gradeint />
+                                <Link to={`/recipe/${recipe.id}`}>
+                                    <p>
+                                        {recipe.title}
+                                    </p>
+                                    <img src={recipe.image} alt={recipe.title}/>
+                                    <Gradeint />
+                                </Link>
                             </Card>
                         </SplideSlide>
                     );
