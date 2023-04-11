@@ -1,4 +1,3 @@
-Sure, here's the README file for a recipe app built with React in markup code:
 
 # Recipe App
 
