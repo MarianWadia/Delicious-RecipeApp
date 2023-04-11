@@ -1,8 +1,6 @@
 
 # Recipe App
 
-## Description
-
 The Recipe App is a web application built using React that allows users to browse, search, and save recipes. The app includes a wide variety of recipes from different cuisines and categories, as well as the ability for users to create and share their own recipes.
 
 <img src="https://media3.giphy.com/media/svdsMNSzOShzO/giphy.gif?cid=ecf05e47w4pdrs0ooufyxzjy1uqov6zu2twyf4av4j2zzify&rid=giphy.gif&ct=g" alt="Recipe App Demo" style= "width:800px; height: 400px">
